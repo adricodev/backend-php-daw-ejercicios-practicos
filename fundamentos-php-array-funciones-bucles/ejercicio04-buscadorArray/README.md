@@ -1,9 +1,5 @@
 # Ejercicio 04 - Buscador de array
 
-Buscar un elemento dentro de un array usando `in_array()` y mostrar si existe o no.
+Ejercicio de búsqueda en arrays.
 
-## Conceptos
-
-- `in_array()`
-- Función con dos parámetros (elemento y lista)
-- Condicionales `if/else` para mostrar resultado
+Particularidad: función que busca un elemento con `in_array()` e indica si está en la lista o no.

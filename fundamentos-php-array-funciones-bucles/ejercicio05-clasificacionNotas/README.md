@@ -1,9 +1,5 @@
 # Ejercicio 05 - Clasificación de notas
 
-Recorrer un array de puntuaciones y clasificar cada nota según su valor.
+Ejercicio de clasificación con condicionales.
 
-## Conceptos
-
-- Bucle `foreach`
-- Condicionales encadenados (`if/else if/else`)
-- Clasificación: Sobresaliente, Notable, Aprobado, Suspenso
+Particularidad: recorre las notas con `foreach` y clasifica cada una como Sobresaliente, Notable, Aprobado o Suspenso.

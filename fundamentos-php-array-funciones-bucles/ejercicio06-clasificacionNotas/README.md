@@ -1,9 +1,5 @@
 # Ejercicio 06 - Clasificación de notas (filtrado)
 
-Filtrar las notas aprobadas de un array y devolver una nueva lista solo con las que superan el aprobado.
+Ejercicio de filtrado de arrays.
 
-## Conceptos
-
-- Crear un array nuevo dentro de una función
-- `$aprobados[] = $nota` para añadir elementos
-- `return` de un array filtrado
+Particularidad: crea un array nuevo dentro de la función y devuelve solo las notas aprobadas.
